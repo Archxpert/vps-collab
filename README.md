@@ -7,6 +7,8 @@
    
    NO Need To Edit This Code Just Follow The Steps Dont Edit Otherwise Maybe Error Can Occurs If you Are Developer haveing knowledge About programming Then You Can Edit 
 
+IF YOU ARE BEGINNER AND GETTING ERROR DONT WORRY DM ME ON TELEGRAM @ARCHXPERT I WILL SOLVE ERROR AND GIVE YOU A VIDEO TUTORIAL
+
 1. Open [Google Cloud Shell](https://shell.cloud.google.com/?show=ide%2Cterminal)
 
 2. Copy this line and paste it on Google Cloud Shell
