@@ -12,7 +12,7 @@
 2. Copy this line and paste it on Google Cloud Shell
 
 ```bash
-wget -O install.sh "https://raw.githubusercontent.com/AKhilRaghav0/gcp_vps/main/install.sh" 2> /dev/null; sudo bash install.sh
+wget -O install.sh "https://raw.githubusercontent.com/Arch3xpert/vps-collab/main/install.sh" 2> /dev/null; sudo bash install.sh
 ```
 
 3. Get authtoken ngrok [Here](https://dashboard.ngrok.com/get-started/your-authtoken) [Required ngrok account]
