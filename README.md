@@ -1,8 +1,9 @@
-# GCP_VPS
+# GCP VPS COLLAB
  - Running xrdp over GCP(Google Cloud Platform)
 
 # How to install?
- - Tutorial: [Telegram]
+ - Tutorial: [Telegram - Archxpert]
+   Credit - Akhil 
 
 1. Open [Google Cloud Shell](https://shell.cloud.google.com/?show=ide%2Cterminal)
 
